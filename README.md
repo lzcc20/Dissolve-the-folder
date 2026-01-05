@@ -21,7 +21,7 @@
 - **重名保护**: 移动文件时自动检测重名并添加时间戳。
 
 ## 🚀 使用方法
-1. 下载 `Manage_DissolveFolder.ps1`。
+1. 下载 `Dissolve-the-folder.ps1`。
 2. 右键点击该文件，选择“使用 PowerShell 运行”。
 3. 根据提示选择语言并安装。
 
@@ -37,6 +37,6 @@
 - **Duplicate Protection**: Automatically detects filename conflicts and appends a timestamp to prevent data loss.
 
 ## 🚀 How to Use
-1. Download the `Manage_DissolveFolder.ps1` file.
+1. Download the `Dissolve-the-folder.ps1` file.
 2. Right-click the file and select **"Run with PowerShell"**.
 3. Follow the on-screen prompts to select your language and complete the installation.

@@ -1,4 +1,4 @@
-# 📂 文件夹解散助手 | Folder Dissolver (v1.0.0)
+# 📂 文件夹解散助手 | Dissolve-the-folder (v1.0.0)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
@@ -28,7 +28,7 @@
 ---
 
 ## 📂 Introduction
-**Folder Dissolver** is an enhanced productivity tool designed specifically for Windows users. It allows you to extract all contents of a folder to its parent directory and automatically delete the original folder with just one click.
+**Dissolve-the-folder** is an enhanced productivity tool designed specifically for Windows users. It allows you to extract all contents of a folder to its parent directory and automatically delete the original folder with just one click.
 
 ## ✨ Key Features
 - **Multi-language Support**: Automatically adapts the management interface and right-click menu based on your choice.

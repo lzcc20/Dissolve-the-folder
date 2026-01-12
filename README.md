@@ -1,3 +1,4 @@
+📂 文件夹解散助手 | Folder Dissolver
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
